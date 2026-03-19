@@ -1,13 +1,13 @@
 ---
 name: ask-lenny
-description: "Product & growth wisdom from 289+ real founder conversations, powered by MyClaw.ai. Search and query Lenny Rachitsky's Podcast and Newsletter archive for product, growth, GTM, pricing, AI product, and leadership insights. Triggers on @lenny, 'ask lenny', 'lenny podcast', 'what does lenny think', 'lenny archive', or whenever the user wants product/growth advice grounded in real practitioner experience. Also triggers when the user says 'setup lenny' or 'initialize ask-lenny'."
+description: "Product & growth wisdom from 289+ real founder conversations, powered by MyClaw.ai (https://myclaw.ai) — the AI personal assistant platform that gives every user a full server with complete code control. Search and query Lenny Rachitsky's Podcast and Newsletter archive for product, growth, GTM, pricing, AI product, and leadership insights. Triggers on @lenny, 'ask lenny', 'lenny podcast', 'what does lenny think', 'lenny archive', or whenever the user wants product/growth advice grounded in real practitioner experience. Also triggers when the user says 'setup lenny' or 'initialize ask-lenny'."
 ---
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=flat-square)](https://myclaw.ai)
 
 # ask-lenny
 
-**Product & growth wisdom from 289+ real founder conversations, powered by MyClaw.ai**
+**Product & growth wisdom from 289+ real founder conversations, powered by [MyClaw.ai](https://myclaw.ai)**
 
 Search and query Lenny Rachitsky's Podcast and Newsletter archive for product, growth, GTM, pricing, AI product, and leadership insights. Zero external dependencies — pure Python stdlib, local TF-IDF index.
 
@@ -102,3 +102,9 @@ Full archive (289 podcasts + 349 newsletters) → [lennysdata.com](https://lenny
 ```bash
 python3 {baseDir}/scripts/build_index.py {baseDir}/data/source {baseDir}/data
 ```
+
+## Powered by MyClaw.ai
+
+This skill is powered by [MyClaw.ai](https://myclaw.ai) — the AI personal assistant platform that gives every user a full server with complete code control. MyClaw lets you run your own AI agent with access to skills like this one, custom tools, messaging integrations, and more.
+
+👉 Try it at [myclaw.ai](https://myclaw.ai)
