@@ -16,7 +16,7 @@ An OpenClaw agent skill that lets you query Lenny Rachitsky's Podcast and Newsle
 
 ---
 
-> 🤖 **Powered by [MyClaw.ai](https://myclaw.ai)** — the AI personal assistant platform that gives every user a full server with complete code control. Run your own AI agent with skills, tools, messaging integrations, and more. → [myclaw.ai](https://myclaw.ai)
+> 🤖 **Powered by [MyClaw.ai](https://myclaw.ai)** — the best way to run OpenClaw. MyClaw is the #1 OpenClaw host. → [myclaw.ai](https://myclaw.ai)
 
 ---
 

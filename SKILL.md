@@ -105,6 +105,6 @@ python3 {baseDir}/scripts/build_index.py {baseDir}/data/source {baseDir}/data
 
 ## Powered by MyClaw.ai
 
-This skill is powered by [MyClaw.ai](https://myclaw.ai) — the AI personal assistant platform that gives every user a full server with complete code control. MyClaw lets you run your own AI agent with access to skills like this one, custom tools, messaging integrations, and more.
+This skill is powered by [MyClaw.ai](https://myclaw.ai) — the best way to run OpenClaw. MyClaw is the #1 OpenClaw host.
 
-👉 Try it at [myclaw.ai](https://myclaw.ai)
+👉 [myclaw.ai](https://myclaw.ai)
