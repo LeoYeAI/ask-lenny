@@ -1,7 +1,9 @@
-# Ask Lenny
+<div align="center">
+
+# 🎙️ Ask Lenny
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=flat-square)](https://myclaw.ai)
-[![ClawHub](https://img.shields.io/badge/ClawHub-ask--lenny-green?style=flat-square)](https://clawhub.com/skills/ask-lenny)
+[![ClawHub](https://img.shields.io/badge/ClawHub-ask--lenny-green?style=flat-square)](https://clawhub.ai/MyClaw-AI/ask-lenny)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 **Product & growth wisdom from 289+ real founder conversations**
@@ -9,6 +11,12 @@
 An OpenClaw agent skill that lets you query Lenny Rachitsky's Podcast and Newsletter archive — getting cited insights from Marc Andreessen, Bret Taylor, Elena Verna, Jason Lemkin, Melanie Perkins, Ben Horowitz and 280+ more top founders and PMs.
 
 🌐 **Languages:** [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Русский](README.ru.md)
+
+</div>
+
+---
+
+> 🤖 **Powered by [MyClaw.ai](https://myclaw.ai)** — the AI personal assistant platform that gives every user a full server with complete code control. Run your own AI agent with skills, tools, messaging integrations, and more. → [myclaw.ai](https://myclaw.ai)
 
 ---
 
